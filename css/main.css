@@ -16,6 +16,6 @@ section div:nth-child(2){
 section div:nth-child(3){
   background: #dc0000;
 }
-.punto1 *{
-  float: left;
+.punto2 *{
+  float: right;
 }
