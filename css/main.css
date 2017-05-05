@@ -1,0 +1,18 @@
+div{
+  width: 120px;
+  height: 100px;
+}
+.estructura-inicial ,.punto1 , .punto2{
+  width: 500px;
+  height: 300px;
+  border: solid red 1px;
+}
+.estructura-inicial div:nth-child(1){
+  background: #ffff00;
+}
+.estructura-inicial div:nth-child(2){
+  background: #0000ba;
+}
+.estructura-inicial div:nth-child(3){
+  background: #dc0000;
+}
