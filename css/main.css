@@ -7,12 +7,15 @@ div{
   height: 300px;
   border: solid red 1px;
 }
-.estructura-inicial div:nth-child(1){
+section div:nth-child(1){
   background: #ffff00;
 }
-.estructura-inicial div:nth-child(2){
+section div:nth-child(2){
   background: #0000ba;
 }
-.estructura-inicial div:nth-child(3){
+section div:nth-child(3){
   background: #dc0000;
+}
+.punto1 *{
+  float: left;
 }
